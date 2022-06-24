@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="CB.d_rGyFapHhTH7uPzF" x="0" y="0"></block><block type="device_button_event" id="s{]7KFs2DRy./)h]$U$T" x="233" y="10"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="T|R|HNzAZQ[]0+8_(6@o"><value name="TIMES"><shadow type="math_whole_number" id="11(=@^f3y`tH?j{II#a2"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="[awA~R~HV$Y4ID1`)Z1}"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="n2}ifcowl3jC-d.#2~*;"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="=.~MA:qBvha=gFQEkC,y"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="*I_Xl;p,.p))hDu?VZm)"></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_forever" id="eND:ggB}/jY;?#h1,!zO" x="-13" y="122"></block></xml>
